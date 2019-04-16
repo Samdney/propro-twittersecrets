@@ -1,0 +1,15 @@
+*.id
+*.log
+*.lof
+*.lot
+*.lol
+*.maf
+*.mtc*
+*.aux
+*.toc
+*.out
+*.blg
+*.bbl
+*.bst
+makepdf
+mystuff/
